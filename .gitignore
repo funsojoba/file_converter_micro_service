@@ -2,3 +2,10 @@
 *.env
 */.vscode
 /.vscode
+*/.idea
+/.idea
+*/.pytest_cache
+/.pytest_cache
+*/.mypy_cache
+/.mypy_cache
+*/.coverage
